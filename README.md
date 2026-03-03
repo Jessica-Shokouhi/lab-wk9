@@ -1,5 +1,5 @@
 # 4640 week 9 lab
-
+Completed by Kyle, Cole, and Jessica
 Setup:
 
 add a new ssh public key to your AWS account using the "scripts/import_lab_key" script
