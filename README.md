@@ -1,5 +1,6 @@
 # 4640 week 9 lab
 Completed by Kyle, Cole, and Jessica
+
 Setup:
 
 add a new ssh public key to your AWS account using the "scripts/import_lab_key" script
@@ -58,3 +59,4 @@ Run terraform destroy
 Remove your AMI and snapshot built with Packer
 
 Delete the ssh key you used for the lab. There is a script for this in the starter code
+
